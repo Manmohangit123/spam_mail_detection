@@ -6,3 +6,4 @@ The accuracy of Decision Tree is 0.957535
 The accuracy of Support Vector Machine is 0.986244
 The Ham mails are 4825.
 The Spam mails are 675.
+![image](https://github.com/user-attachments/assets/7c2563aa-1da3-4800-8e64-c3f0f2669547)
